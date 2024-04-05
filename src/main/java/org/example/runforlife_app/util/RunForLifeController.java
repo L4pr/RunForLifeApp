@@ -22,6 +22,7 @@ public class RunForLifeController extends Controller {
     private HashMap<String, String> accounts = new HashMap<>() {{
         put("admin", "admin");
         put("Administratie", "password");
+        put("Accountant", "password");
     }};
 
 
@@ -38,6 +39,10 @@ public class RunForLifeController extends Controller {
                         case "Administratie":
                             FXMLLoader fxmlLoader = new FXMLLoader(RunForLifeApplication.class.getResource("AdministratieEvenementKiezer.fxml"));
                             changeScene(fxmlLoader, stage);
+                            break;
+                        case "Accountant":
+                            FXMLLoader fxmlLoader2 = new FXMLLoader(RunForLifeApplication.class.getResource("AccountantEvenementKiezer.fxml"));
+                            changeScene(fxmlLoader2, stage);
                             break;
                     }
                 } catch (Exception e) {

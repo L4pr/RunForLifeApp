@@ -9,4 +9,6 @@ module org.example.runforlife_app {
     opens org.example.runforlife_app.util to javafx.fxml;
     exports org.example.runforlife_app.Administratie;
     exports org.example.runforlife_app;
+    opens org.example.runforlife_app.Accountant to javafx.fxml;
+    exports org.example.runforlife_app.Accountant;
 }

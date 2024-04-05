@@ -33,7 +33,7 @@ public class EvenementKiesController extends Controller {
     public void goToEvent(int eventNum) {
         Database.currentEvent = eventNum;
         FXMLLoader fxmlLoader = new FXMLLoader(RunForLifeApplication.class.getResource("AdministratieChooseMenu.fxml"));
-        AdministratieChooseMenuController controller = (AdministratieChooseMenuController) changeScene(fxmlLoader, stage);
+        changeScene(fxmlLoader, stage);
     }
 
 

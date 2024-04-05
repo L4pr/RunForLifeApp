@@ -9,80 +9,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d1077dc-acf6-4781-9081-b4d82bae6677" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03506bebbd0b0fe4de9ca00d786b67f988e82388" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04792a9f011c67981d06c66f0f5232c66f31538e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0eefe802288467fedb699f8273ad2f4e18b9fe89" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c89a5491fbfda3fb050196d6a239f20200296e7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26e4c1052421096f793e82d553da20f2c57f7e73" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/276399a45959540f92c781ba9f8ccdf907d2710b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/528db39068eadbdc5d780a8d1ae155f41d14acdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/597e4df9791c088a3f2bb0c492381d20c70cb54a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5fc52949d5310209e49fad4859c981bb6363342e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/736d0d58c6d85eb03b32499dee2b7200b084a109" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7aa8b824b3cbae48124be743df6bd69c33cc848c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3a3126dbaac8168e92b29585353564ecff35c3e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbd711f44ffde2a5b44965be008c5586fada0900" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e02d0c878d95a048a841525082a865f9ad43ea33" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/3/03506bebbd0b0fe4de9ca00d786b67f988e82388" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/4/04792a9f011c67981d06c66f0f5232c66f31538e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/e/0eefe802288467fedb699f8273ad2f4e18b9fe89" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/c/1c89a5491fbfda3fb050196d6a239f20200296e7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/6/26e4c1052421096f793e82d553da20f2c57f7e73" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/7/276399a45959540f92c781ba9f8ccdf907d2710b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/2/528db39068eadbdc5d780a8d1ae155f41d14acdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/9/597e4df9791c088a3f2bb0c492381d20c70cb54a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/f/5fc52949d5310209e49fad4859c981bb6363342e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/3/736d0d58c6d85eb03b32499dee2b7200b084a109" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/a/7aa8b824b3cbae48124be743df6bd69c33cc848c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/3/c3a3126dbaac8168e92b29585353564ecff35c3e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/dbd711f44ffde2a5b44965be008c5586fada0900" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/0/e02d0c878d95a048a841525082a865f9ad43ea33" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieChooseMenuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieEvenementAanpassenController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieFinancieelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieRunnerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieSponsorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/EvenementKiesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/ToevoegenEnBewerkenRunnerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/ToevoegenEnBewerkenSponsorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/RunForLifeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/CSVReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/RunForLifeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/Sponsor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/RunForLife Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/Accountant.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieChooseMenu.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieEvenementAanpassen.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieEvenementKiezer.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieFinancieel.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieRunner.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieSponsor.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/LoginScreen.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/ToevoegenEnBewerkenRunner.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/ToevoegenEnBewerkenSponsor.fxml" afterDir="false" />
+    <list default="true" id="2d1077dc-acf6-4781-9081-b4d82bae6677" name="Changes" comment="RunForLife App Administratie en login">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantChooseMenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantEvenementKiesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantFinancieelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantRunnerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantSponsorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantChooseMenu.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantEvenementKiezer.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantFinancieel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantSponsor.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26e4c1052421096f793e82d553da20f2c57f7e73" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26e4c1052421096f793e82d553da20f2c57f7e73" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e02d0c878d95a048a841525082a865f9ad43ea33" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e02d0c878d95a048a841525082a865f9ad43ea33" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/EvenementKiesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/EvenementKiesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/RunForLifeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/RunForLifeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/Accountant.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantRunner.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +89,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/renzo/Desktop/Saxion/Requirement engineering/RunForLife App/src/main/resources/org/example/runforlife_app",
@@ -171,8 +117,8 @@
       <recent name="org.example.runforlife_app" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org.example.runforlife_app.util" />
       <recent name="org.example.runforlife_app.Administratie" />
+      <recent name="org.example.runforlife_app.util" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -266,8 +212,17 @@
       <workItem from="1712054880991" duration="45109000" />
       <workItem from="1712272848607" duration="1535000" />
       <workItem from="1712274440424" duration="3361000" />
-      <workItem from="1712318727602" duration="8833000" />
+      <workItem from="1712318727602" duration="11232000" />
     </task>
+    <task id="LOCAL-00001" summary="RunForLife App Administratie en login">
+      <option name="closed" value="true" />
+      <created>1712330251221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712330251221</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +230,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="RunForLife App Administratie en login" />
+    <option name="LAST_COMMIT_MESSAGE" value="RunForLife App Administratie en login" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
