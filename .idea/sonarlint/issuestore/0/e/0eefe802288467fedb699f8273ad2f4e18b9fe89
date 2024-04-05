@@ -1,0 +1,9 @@
+
+›
+java:S1104"XMake currentEvent a static final constant or non-public and provide accessors if needed.(¢•’¢8‡¸Õê1J$7f25ab31-5e5f-4dbf-8820-0bf2abc7b5f9
+u
+java:S1444"2Make this "public static currentEvent" field final(¢•’¢8ˆ¸Õê1J$030b8640-8493-4139-8971-cd3f390126e6
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(Ñ°Ù®şÿÿÿÿ8¸Õê1J$d9755578-762e-4371-b5e1-7c42407d6d78
+†
+java:S1128">Remove this unused import 'javafx.collections.ObservableList'.(ÄÜ€éüÿÿÿÿ8‚ÉéØê1J$3a2722af-67a1-42d2-9a08-6eec02398157

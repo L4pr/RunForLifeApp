@@ -1,0 +1,15 @@
+
+r
+java:S1066#"/Merge this if statement with the enclosing one.(”Ÿ¶ô8šÊéÑê1J$d3bfe805-9fb9-4e04-b3a0-a6d5a0698682
+“
+java:S1301%"KReplace this "switch" statement by "if" statements to increase readability.(Âí©§ıÿÿÿÿ8œÊéÑê1J$b4d564d1-a8a3-4985-bf67-1c44221b3b88
+Ä
+java:S11866"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£¿Ç¤8ÊéÑê1J$f105203a-4d1c-49eb-9a79-b4a0e3dc057c
+t
+java:S3599",Use another way to initialize this instance.(ŞéÄóşÿÿÿÿ8 ÊéÑê1J$1a0bc281-8d29-4371-88b8-4730522eab1b
+¡
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ŞéÄóşÿÿÿÿ8¡ÊéÑê1J$16b7f3f9-1b72-4acb-945e-259051fe1ae1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜›°Îøÿÿÿÿ8íÀàÓê1
+i	java:S131%""Add a default case to this switch.(Âí©§ıÿÿÿÿ8£ÊéÑê1J$c0270e9f-1321-4bc7-b2ff-b010cae26630
+y
+java:S1068"1Remove this unused "buttonPressed" private field.(“é˜¸şÿÿÿÿ8ªÊéÑê1J$12a549ac-eb8a-4fca-9a68-220256a1017a

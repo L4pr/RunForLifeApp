@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="RunForLife_App:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d1077dc-acf6-4781-9081-b4d82bae6677" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03506bebbd0b0fe4de9ca00d786b67f988e82388" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04792a9f011c67981d06c66f0f5232c66f31538e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0eefe802288467fedb699f8273ad2f4e18b9fe89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c89a5491fbfda3fb050196d6a239f20200296e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26e4c1052421096f793e82d553da20f2c57f7e73" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/276399a45959540f92c781ba9f8ccdf907d2710b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/528db39068eadbdc5d780a8d1ae155f41d14acdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/597e4df9791c088a3f2bb0c492381d20c70cb54a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5fc52949d5310209e49fad4859c981bb6363342e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/736d0d58c6d85eb03b32499dee2b7200b084a109" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7aa8b824b3cbae48124be743df6bd69c33cc848c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3a3126dbaac8168e92b29585353564ecff35c3e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbd711f44ffde2a5b44965be008c5586fada0900" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e02d0c878d95a048a841525082a865f9ad43ea33" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/3/03506bebbd0b0fe4de9ca00d786b67f988e82388" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/4/04792a9f011c67981d06c66f0f5232c66f31538e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/e/0eefe802288467fedb699f8273ad2f4e18b9fe89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/c/1c89a5491fbfda3fb050196d6a239f20200296e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/6/26e4c1052421096f793e82d553da20f2c57f7e73" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/7/276399a45959540f92c781ba9f8ccdf907d2710b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/2/528db39068eadbdc5d780a8d1ae155f41d14acdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/9/597e4df9791c088a3f2bb0c492381d20c70cb54a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/f/5fc52949d5310209e49fad4859c981bb6363342e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/3/736d0d58c6d85eb03b32499dee2b7200b084a109" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/a/7aa8b824b3cbae48124be743df6bd69c33cc848c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/3/c3a3126dbaac8168e92b29585353564ecff35c3e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/dbd711f44ffde2a5b44965be008c5586fada0900" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/0/e02d0c878d95a048a841525082a865f9ad43ea33" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieChooseMenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieEvenementAanpassenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieFinancieelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieRunnerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieSponsorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/EvenementKiesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/ToevoegenEnBewerkenRunnerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/ToevoegenEnBewerkenSponsorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/RunForLifeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/CSVReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/RunForLifeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/Sponsor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/RunForLife Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/Accountant.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieChooseMenu.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieEvenementAanpassen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieEvenementKiezer.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieFinancieel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieRunner.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieSponsor.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/LoginScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/ToevoegenEnBewerkenRunner.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/ToevoegenEnBewerkenSponsor.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2eMnsZTWePiMm5raP5WTdVrlH1T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.HelloApplication.executor": "Run",
+    "Application.RunForLifeApplication.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Maven.RunForLife_App [clean,package].executor": "Run",
+    "Maven.RunForLife_App [clean].executor": "Run",
+    "Maven.RunForLife_App [compile].executor": "Run",
+    "Maven.RunForLife_App [deploy].executor": "Run",
+    "Maven.RunForLife_App [install].executor": "Run",
+    "Maven.RunForLife_App [org.apache.maven.plugins:maven-assembly-plugin:2.2-beta-5:single].executor": "Run",
+    "Maven.RunForLife_App [org.openjfx:javafx-maven-plugin:0.0.8:jlink].executor": "Run",
+    "Maven.RunForLife_App [org.openjfx:javafx-maven-plugin:0.0.8:run].executor": "Run",
+    "Maven.RunForLife_App [package].executor": "Run",
+    "Maven.RunForLife_App [site].executor": "Run",
+    "Maven.RunForLife_App [test].executor": "Run",
+    "Maven.RunForLife_App [validate].executor": "Run",
+    "Maven.RunForLife_App [verify].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/renzo/Desktop/Saxion/Requirement engineering/RunForLife App/src/main/resources/org/example/runforlife_app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\renzo\Desktop\Saxion\Requirement engineering\RunForLife App\src\main\resources\org\example\runforlife_app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\renzo\Desktop\Saxion\Requirement engineering\RunForLife App" />
+      <recent name="C:\Users\renzo\Desktop\Saxion\Requirement engineering\RunForLife App\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.runforlife_app" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.runforlife_app.util" />
+      <recent name="org.example.runforlife_app.Administratie" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn compile" />
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RunForLifeApplication">
+    <configuration name="RunForLifeApplication" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+      <option name="MAIN_CLASS_NAME" value="org.example.runforlife_app.RunForLifeApplication" />
+      <module name="RunForLife_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="RunForLife App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="RunForLife App" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunForLife_App [deploy]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="deploy" />
+                <option value="pom.xml" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="-e" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.RunForLifeApplication" />
+      <item itemvalue="Maven.RunForLife_App [deploy]" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d1077dc-acf6-4781-9081-b4d82bae6677" name="Changes" comment="" />
+      <created>1711723521712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711723521712</updated>
+      <workItem from="1711723522718" duration="421000" />
+      <workItem from="1711724256582" duration="81000" />
+      <workItem from="1711724349975" duration="1055000" />
+      <workItem from="1711726151580" duration="91000" />
+      <workItem from="1711726255681" duration="345000" />
+      <workItem from="1711726644484" duration="140000" />
+      <workItem from="1711800946693" duration="626000" />
+      <workItem from="1711802429092" duration="1054000" />
+      <workItem from="1712054572514" duration="250000" />
+      <workItem from="1712054880991" duration="45109000" />
+      <workItem from="1712272848607" duration="1535000" />
+      <workItem from="1712274440424" duration="3361000" />
+      <workItem from="1712318727602" duration="8833000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="22" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="23" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
