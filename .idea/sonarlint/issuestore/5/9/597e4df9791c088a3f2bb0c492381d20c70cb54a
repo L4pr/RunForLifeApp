@@ -1,9 +1,11 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã”½þ8ªþ§Úê1J$62f1c887-ba87-458f-9d92-6a07cfe4f027
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã”½þ8ªþ§Úê1J$7bf2b693-3c91-42ec-9288-254819b659af
 Ä
-java:S1186d"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µÜ¸ð8Äþ§Úê1J$63150931-e53d-44d4-9f5f-7928282e2fc6
-•	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·€Ÿ§øÿÿÿÿ8Éþ§Úê1J$e7a6904d-31c7-4f18-b6a2-d8b4a331cee2
-r	java:S106L"+Replace this use of System.out by a logger.(ðâÍ¡ûÿÿÿÿ8Íþ§Úê1J$6e1aaddf-643d-43ee-b472-fef2e255d5dd
-r	java:S106_"+Replace this use of System.out by a logger.(ðâÍ¡ûÿÿÿÿ8Ïþ§Úê1J$642a42e1-8a54-458d-9992-59f63d6cf94a
-•	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒ©´ûÿÿÿÿ8Ïþ§Úê1J$a2eea979-d10e-4a9d-b1fe-888462f7d29c
-m	java:S106x"+Replace this use of System.out by a logger.(ÔÈÙç8Ðþ§Úê1J$a9289bb9-874f-4b9a-b8b0-cbf47d27396c
+java:S1186`"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µÜ¸ð8Äþ§Úê1J$326ce730-1c4c-4130-b069-9dd2f0949acb
+•	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·€Ÿ§øÿÿÿÿ8Éþ§Úê1J$2a84cfb5-d8ea-4b44-b267-1d6505c63ee3
+r	java:S106H"+Replace this use of System.out by a logger.(ðâÍ¡ûÿÿÿÿ8Íþ§Úê1J$66b0ec51-337b-4be0-acbc-f1aecf6cd007
+r	java:S106["+Replace this use of System.out by a logger.(ðâÍ¡ûÿÿÿÿ8Ïþ§Úê1J$61efc3c0-557d-45ba-82f3-723ef979b18a
+•	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒ©´ûÿÿÿÿ8Ïþ§Úê1J$9ac6e82f-e4c4-46df-97db-1a1149b7b0f0
+m	java:S106t"+Replace this use of System.out by a logger.(ÔÈÙç8Ðþ§Úê1J$7fea9d5d-b2ee-43eb-9fb0-080a90996c3e
+}
+java:S1128	"5Remove this unused import 'javafx.scene.layout.VBox'.(íÆáÂùÿÿÿÿ8·âÞ—ë1J$756a44bb-ea8f-463d-994e-4bbb4cc4f54d

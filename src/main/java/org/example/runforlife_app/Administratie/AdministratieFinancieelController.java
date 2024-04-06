@@ -35,6 +35,6 @@ public class AdministratieFinancieelController extends Controller {
                 total += Database.getCurrentEvent().getSponsorData().get(i).getDonated();
             }
         }
-        bedrag.setText(Double.toString(total));
+        bedrag.setText("€" + Double.toString(total));
     }
 }

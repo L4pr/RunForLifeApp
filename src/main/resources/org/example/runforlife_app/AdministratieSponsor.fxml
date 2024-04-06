@@ -7,6 +7,7 @@
 <?import javafx.scene.control.TableView?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
@@ -30,7 +31,7 @@
             </Label>
          </center>
          <right>
-            <ImageView fitHeight="199.0" fitWidth="209.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
+            <ImageView fitHeight="200.0" fitWidth="209.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                <image>
                   <Image url="@../../../RunForLife%20Logo.png" />
                </image>
@@ -39,44 +40,64 @@
       </BorderPane>
    </top>
    <center>
-      <HBox prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+      <VBox BorderPane.alignment="CENTER">
          <children>
-            <TableView fx:id="sponsorTableView">
-              <columns>
-                <TableColumn fx:id="companyColumn" minWidth="120.0" prefWidth="-1.0" text="Company" />
-                <TableColumn fx:id="nameColumn" minWidth="120.0" prefWidth="-1.0" text="Name" />
-                  <TableColumn fx:id="phoneNumberColumn" minWidth="120.0" prefWidth="-1.0" text="Phone Number" />
-                  <TableColumn fx:id="emailColumn" minWidth="160.0" prefWidth="-1.0" text="Email" />
-                  <TableColumn fx:id="donatedColumn" minWidth="120.0" prefWidth="-1.0" text="Donated" />
-                  <TableColumn fx:id="payedColumn" minWidth="120.0" prefWidth="-1.0" text="Payed" />
-                  <TableColumn fx:id="remarksColumn" minWidth="160.0" prefWidth="-1.0" text="Remarks" />
-              </columns>
-            </TableView>
-            <VBox fx:id="vBox" alignment="CENTER" minWidth="120.0">
+            <AnchorPane>
                <children>
-                  <Button mnemonicParsing="false" onAction="#addData" text="Toevoegen">
-                     <VBox.margin>
-                        <Insets />
-                     </VBox.margin>
-                  </Button>
-                  <Button mnemonicParsing="false" onAction="#editData" text="Aanpassen">
-                     <VBox.margin>
-                        <Insets top="50.0" />
-                     </VBox.margin>
-                  </Button>
-                  <Button mnemonicParsing="false" onAction="#deleteData" text="Verwijderen">
-                     <VBox.margin>
-                        <Insets top="50.0" />
-                     </VBox.margin>
-                  </Button>
-                  <Button mnemonicParsing="false" onAction="#Import" text="Import">
-                     <VBox.margin>
-                        <Insets top="50.0" />
-                     </VBox.margin>
-                  </Button>
+                  <VBox alignment="CENTER" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+                     <children>
+                        <Label text="Sponsors">
+                           <VBox.margin>
+                              <Insets left="70.0" />
+                           </VBox.margin>
+                           <font>
+                              <Font size="24.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </VBox>
+                  <HBox alignment="CENTER" AnchorPane.bottomAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                     <children>
+                        <Button mnemonicParsing="false" onAction="#addData" text="Toevoegen">
+                           <HBox.margin>
+                              <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                           </HBox.margin>
+                        </Button>
+                        <Button mnemonicParsing="false" onAction="#editData" text="Aanpassen">
+                           <HBox.margin>
+                              <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                           </HBox.margin>
+                        </Button>
+                        <Button mnemonicParsing="false" onAction="#deleteData" text="Verwijderen">
+                           <HBox.margin>
+                              <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                           </HBox.margin>
+                        </Button>
+                        <Button mnemonicParsing="false" onAction="#Import" text="Import">
+                           <HBox.margin>
+                              <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                           </HBox.margin>
+                        </Button>
+                     </children>
+                  </HBox>
                </children>
-            </VBox>
+            </AnchorPane>
+            <AnchorPane>
+               <children>
+                  <TableView fx:id="sponsorTableView" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <columns>
+                      <TableColumn fx:id="companyColumn" minWidth="120.0" prefWidth="-1.0" text="Company" />
+                      <TableColumn fx:id="nameColumn" minWidth="120.0" prefWidth="-1.0" text="Name" />
+                        <TableColumn fx:id="phoneNumberColumn" minWidth="120.0" prefWidth="-1.0" text="Phone Number" />
+                        <TableColumn fx:id="emailColumn" minWidth="160.0" prefWidth="-1.0" text="Email" />
+                        <TableColumn fx:id="donatedColumn" minWidth="120.0" prefWidth="-1.0" text="Donated" />
+                        <TableColumn fx:id="payedColumn" minWidth="120.0" prefWidth="-1.0" text="Payed" />
+                        <TableColumn fx:id="remarksColumn" minWidth="160.0" prefWidth="-1.0" text="Remarks" />
+                    </columns>
+                  </TableView>
+               </children>
+            </AnchorPane>
          </children>
-      </HBox>
+      </VBox>
    </center>
 </BorderPane>

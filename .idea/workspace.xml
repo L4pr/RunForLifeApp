@@ -9,25 +9,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d1077dc-acf6-4781-9081-b4d82bae6677" name="Changes" comment="RunForLife App Administratie en login">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantChooseMenuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantEvenementKiesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantFinancieelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantRunnerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantSponsorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantChooseMenu.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantEvenementKiezer.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantFinancieel.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantSponsor.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26e4c1052421096f793e82d553da20f2c57f7e73" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26e4c1052421096f793e82d553da20f2c57f7e73" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e02d0c878d95a048a841525082a865f9ad43ea33" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e02d0c878d95a048a841525082a865f9ad43ea33" afterDir="false" />
+    <list default="true" id="2d1077dc-acf6-4781-9081-b4d82bae6677" name="Changes" comment="RunForLife App Accountant">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/597e4df9791c088a3f2bb0c492381d20c70cb54a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/597e4df9791c088a3f2bb0c492381d20c70cb54a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5fc52949d5310209e49fad4859c981bb6363342e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5fc52949d5310209e49fad4859c981bb6363342e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/EvenementKiesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/EvenementKiesController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/RunForLifeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/util/RunForLifeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/Accountant.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantRunner.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantFinancieelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantFinancieelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantRunnerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantRunnerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantSponsorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Accountant/AccountantSponsorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieFinancieelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieFinancieelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieRunnerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieRunnerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieSponsorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/runforlife_app/Administratie/AdministratieSponsorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantRunner.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantRunner.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantSponsor.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AccountantSponsor.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieRunner.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieRunner.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieSponsor.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/runforlife_app/AdministratieSponsor.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,47 +61,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.HelloApplication.executor": "Run",
-    "Application.RunForLifeApplication.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Maven.RunForLife_App [clean,package].executor": "Run",
-    "Maven.RunForLife_App [clean].executor": "Run",
-    "Maven.RunForLife_App [compile].executor": "Run",
-    "Maven.RunForLife_App [deploy].executor": "Run",
-    "Maven.RunForLife_App [install].executor": "Run",
-    "Maven.RunForLife_App [org.apache.maven.plugins:maven-assembly-plugin:2.2-beta-5:single].executor": "Run",
-    "Maven.RunForLife_App [org.openjfx:javafx-maven-plugin:0.0.8:jlink].executor": "Run",
-    "Maven.RunForLife_App [org.openjfx:javafx-maven-plugin:0.0.8:run].executor": "Run",
-    "Maven.RunForLife_App [package].executor": "Run",
-    "Maven.RunForLife_App [site].executor": "Run",
-    "Maven.RunForLife_App [test].executor": "Run",
-    "Maven.RunForLife_App [validate].executor": "Run",
-    "Maven.RunForLife_App [verify].executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/renzo/Desktop/Saxion/Requirement engineering/RunForLife App/src/main/resources/org/example/runforlife_app",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunForLifeApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Maven.RunForLife_App [clean,package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RunForLife_App [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RunForLife_App [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RunForLife_App [deploy].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RunForLife_App [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RunForLife_App [org.apache.maven.plugins:maven-assembly-plugin:2.2-beta-5:single].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RunForLife_App [org.openjfx:javafx-maven-plugin:0.0.8:jlink].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RunForLife_App [org.openjfx:javafx-maven-plugin:0.0.8:run].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RunForLife_App [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RunForLife_App [site].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RunForLife_App [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RunForLife_App [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RunForLife_App [verify].executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/renzo/Desktop/Saxion/Requirement engineering/RunForLife App/src/main/resources/org/example/runforlife_app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\renzo\Desktop\Saxion\Requirement engineering\RunForLife App\src\main\resources\org\example\runforlife_app" />
@@ -212,7 +209,8 @@
       <workItem from="1712054880991" duration="45109000" />
       <workItem from="1712272848607" duration="1535000" />
       <workItem from="1712274440424" duration="3361000" />
-      <workItem from="1712318727602" duration="11232000" />
+      <workItem from="1712318727602" duration="12260000" />
+      <workItem from="1712398014993" duration="1743000" />
     </task>
     <task id="LOCAL-00001" summary="RunForLife App Administratie en login">
       <option name="closed" value="true" />
@@ -222,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712330251221</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="RunForLife App Accountant">
+      <option name="closed" value="true" />
+      <created>1712332683709</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712332683709</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +237,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="RunForLife App Administratie en login" />
-    <option name="LAST_COMMIT_MESSAGE" value="RunForLife App Administratie en login" />
+    <MESSAGE value="RunForLife App Accountant" />
+    <option name="LAST_COMMIT_MESSAGE" value="RunForLife App Accountant" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

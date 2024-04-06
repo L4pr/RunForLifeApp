@@ -37,9 +37,6 @@ public class AdministratieRunnerController extends Controller {
     private TableColumn<Runner, Double> registrationFeeColumn;
     @FXML
     private TableColumn<Runner, Boolean> payedColumn;
-    @FXML
-    private VBox vBox;
-
 
     private ObservableList<Runner> getDataTable(int i) {
         return Database.getEvent(i).getRunnerData();
@@ -57,11 +54,11 @@ public class AdministratieRunnerController extends Controller {
         registrationFeeColumn.setCellValueFactory(new PropertyValueFactory<>("registrationFee"));
         payedColumn.setCellValueFactory(new PropertyValueFactory<>("payed"));
         runnerTableView.setItems(getDataTable(Database.currentEvent));
-        double size = stage.getWidth() / 10;
+        double size = stage.getWidth() / 9;
         for (int i = 0; i < 9; i++) {
             runnerTableView.getColumns().get(i).setPrefWidth(size);
         }
-        vBox.setPrefWidth(size);
+        runnerTableView.setPrefHeight(stage.getHeight() - 270);
     }
 
     @FXML

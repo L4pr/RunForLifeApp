@@ -35,8 +35,6 @@ public class AccountantSponsorController extends Controller {
     private TableColumn<Sponsor, String> remarksColumn;
     @FXML
     private TableColumn<Sponsor, Boolean> payedColumn;
-    @FXML
-    private VBox vBox;
 
 
     private ObservableList<Sponsor> getDataTable(int i) {
@@ -53,12 +51,11 @@ public class AccountantSponsorController extends Controller {
         remarksColumn.setCellValueFactory(new PropertyValueFactory<>("remarks"));
         payedColumn.setCellValueFactory(new PropertyValueFactory<>("payed"));
         sponsorTableView.setItems(getDataTable(Database.currentEvent));
-        double size = stage.getWidth() / 9;
+        double size = stage.getWidth() / 7;
         for (int i = 0; i < 7; i++) {
             sponsorTableView.getColumns().get(i).setPrefWidth(size);
         }
-        sponsorTableView.getColumns().get(6).setPrefWidth(size * 2);
-        vBox.setPrefWidth(size);
+        sponsorTableView.setPrefHeight(stage.getHeight() - 270);
     }
 
     @FXML
