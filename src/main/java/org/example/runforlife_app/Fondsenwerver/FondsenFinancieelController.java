@@ -1,4 +1,4 @@
-package org.example.runforlife_app.Accountant;
+package org.example.runforlife_app.Fondsenwerver;
 
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -7,7 +7,7 @@ import org.example.runforlife_app.util.Controller;
 import org.example.runforlife_app.RunForLifeApplication;
 import org.example.runforlife_app.util.Database;
 
-public class AccountantFinancieelController extends Controller {
+public class FondsenFinancieelController extends Controller {
 
     @FXML
     private Label bedrag;
@@ -17,7 +17,7 @@ public class AccountantFinancieelController extends Controller {
 
     @FXML
     public void Back() {
-        FXMLLoader fxmlLoader = new FXMLLoader(RunForLifeApplication.class.getResource("AccountantChooseMenu.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(RunForLifeApplication.class.getResource("FondsenChooseMenu.fxml"));
         changeScene(fxmlLoader, stage);
     }
 

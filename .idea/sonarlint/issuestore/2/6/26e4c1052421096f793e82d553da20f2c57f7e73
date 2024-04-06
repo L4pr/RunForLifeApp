@@ -1,15 +1,15 @@
 
+‘
+java:S1192"IDefine a constant instead of duplicating this literal "password" 3 times.(àÀÓçûÿÿÿÿ8›Ï›˜ë1J$a6e65923-eef1-4e94-80f1-b4ae15b42a80
 r
-java:S1066$"/Merge this if statement with the enclosing one.(”Ÿ¶ô8‚ıÆ÷ê1J$e8e78f18-f779-4822-b796-668deb451431
-“
-java:S1301&"KReplace this "switch" statement by "if" statements to increase readability.(Âí©§ıÿÿÿÿ8‚ıÆ÷ê1J$003c5aad-03b7-41f0-b791-45719893939b
+java:S1066#"/Merge this if statement with the enclosing one.(”Ÿ¶ô8œÏ›˜ë1J$6eee5a40-c5f9-40ef-9039-f8272ed1adbb
 Ä
-java:S1186;"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£¿Ç¤8–ıÆ÷ê1J$d9b1b6e3-1408-476b-ac07-bd84fd69d3e7
+java:S1186>"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£¿Ç¤8²Ï›˜ë1J$5df02e7a-72d2-48fc-b15b-6ddbeb93a962
 t
-java:S3599",Use another way to initialize this instance.(ŞéÄóşÿÿÿÿ8™ıÆ÷ê1J$5a33c465-3b76-4bd1-8b13-d0ec2b184a4a
+java:S3599",Use another way to initialize this instance.(ŞéÄóşÿÿÿÿ8µÏ›˜ë1J$e93a7e9c-3133-4733-9cee-4d1e431aaf28
 ¡
-java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ŞéÄóşÿÿÿÿ8›ıÆ÷ê1J$1ab4fa60-bb55-4c8e-ac6b-52c45c799343
-•	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜›°Îøÿÿÿÿ8œıÆ÷ê1J$b05999b7-b355-44a0-a693-fc08885d8c2a
-i	java:S131&""Add a default case to this switch.(Âí©§ıÿÿÿÿ8ıÆ÷ê1J$5e8c9c2b-5ba0-4ef1-b927-e3784855265a
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ŞéÄóşÿÿÿÿ8¶Ï›˜ë1J$6faae54c-f42a-4e08-a8fc-f8e05618e115
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜›°Îøÿÿÿÿ8„·£˜ë1
+i	java:S131%""Add a default case to this switch.(Âí©§ıÿÿÿÿ8¹Ï›˜ë1J$80de12d7-24de-4397-89be-1b9a9ad4ab23
 y
-java:S1068"1Remove this unused "buttonPressed" private field.(“é˜¸şÿÿÿÿ8¢ıÆ÷ê1J$8ca466bc-4972-4ac1-ad19-97d6728ac20a
+java:S1068"1Remove this unused "buttonPressed" private field.(“é˜¸şÿÿÿÿ8¿Ï›˜ë1J$fdeb8f4b-79d6-443e-a61b-3ea079c84299

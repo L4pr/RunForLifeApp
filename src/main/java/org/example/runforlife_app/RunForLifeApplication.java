@@ -5,7 +5,7 @@ import javafx.collections.ObservableList;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-import org.example.runforlife_app.Administratie.Controller;
+import org.example.runforlife_app.util.Controller;
 import org.example.runforlife_app.util.Database;
 import org.example.runforlife_app.util.Runner;
 import org.example.runforlife_app.util.Sponsor;

@@ -10,7 +10,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="600.0" minWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.runforlife_app.Accountant.AccountantFinancieelController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="600.0" minWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.runforlife_app.Fondsenwerver.FondsenFinancieelController">
    <top>
       <BorderPane style="-fx-background-color: #032139;" BorderPane.alignment="CENTER">
          <left>
@@ -24,7 +24,7 @@
             </Button>
          </left>
          <center>
-            <Label text="Accountant" textAlignment="CENTER" textFill="WHITE" BorderPane.alignment="CENTER">
+            <Label text="Fondsenwerver" textAlignment="CENTER" textFill="WHITE" BorderPane.alignment="CENTER">
                <font>
                   <Font size="40.0" />
                </font>

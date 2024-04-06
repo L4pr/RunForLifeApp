@@ -8,6 +8,7 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.paint.Color;
 import org.example.runforlife_app.RunForLifeApplication;
+import org.example.runforlife_app.util.Controller;
 import org.example.runforlife_app.util.Database;
 import org.example.runforlife_app.util.Event;
 

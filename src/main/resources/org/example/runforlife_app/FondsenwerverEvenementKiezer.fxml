@@ -5,12 +5,11 @@
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
-<?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.BorderPane?>
-<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.HBox?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="600.0" minWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.runforlife_app.Accountant.AccountantFinancieelController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="600.0" minWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.runforlife_app.Fondsenwerver.FondsenEvenementKiesController">
    <top>
       <BorderPane style="-fx-background-color: #032139;" BorderPane.alignment="CENTER">
          <left>
@@ -24,7 +23,7 @@
             </Button>
          </left>
          <center>
-            <Label text="Accountant" textAlignment="CENTER" textFill="WHITE" BorderPane.alignment="CENTER">
+            <Label text="Fondsenwerver" textAlignment="CENTER" textFill="WHITE" BorderPane.alignment="CENTER">
                <font>
                   <Font size="40.0" />
                </font>
@@ -40,26 +39,33 @@
       </BorderPane>
    </top>
    <center>
-      <AnchorPane BorderPane.alignment="CENTER">
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
          <children>
-            <VBox alignment="CENTER" layoutX="323.0" layoutY="80.0" prefHeight="200.0" prefWidth="100.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
-               <children>
-                  <Label text="Bedrag opgehaald:">
-                     <font>
-                        <Font size="24.0" />
-                     </font>
-                  </Label>
-                  <Label fx:id="bedrag" text="Bedrag">
-                     <font>
-                        <Font size="24.0" />
-                     </font>
-                     <VBox.margin>
-                        <Insets bottom="70.0" top="50.0" />
-                     </VBox.margin>
-                  </Label>
-               </children>
-            </VBox>
+            <Button fx:id="event0" mnemonicParsing="false" text="Event 0">
+               <HBox.margin>
+                  <Insets right="100.0" />
+               </HBox.margin>
+               <font>
+                  <Font size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="event1" mnemonicParsing="false" text="Event 1">
+               <font>
+                  <Font size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="event2" mnemonicParsing="false" text="Event 2">
+               <HBox.margin>
+                  <Insets left="100.0" />
+               </HBox.margin>
+               <font>
+                  <Font size="22.0" />
+               </font>
+            </Button>
          </children>
-      </AnchorPane>
+         <BorderPane.margin>
+            <Insets bottom="100.0" />
+         </BorderPane.margin>
+      </HBox>
    </center>
 </BorderPane>

@@ -5,6 +5,7 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.paint.Color;
+import org.example.runforlife_app.util.Controller;
 import org.example.runforlife_app.util.Database;
 import org.example.runforlife_app.RunForLifeApplication;
 

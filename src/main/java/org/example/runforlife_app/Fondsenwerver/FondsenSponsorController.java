@@ -1,4 +1,4 @@
-package org.example.runforlife_app.Accountant;
+package org.example.runforlife_app.Fondsenwerver;
 
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
@@ -11,7 +11,7 @@ import org.example.runforlife_app.RunForLifeApplication;
 import org.example.runforlife_app.util.Database;
 import org.example.runforlife_app.util.Sponsor;
 
-public class AccountantSponsorController extends Controller {
+public class FondsenSponsorController extends Controller {
     @FXML
     private TableView<Sponsor> sponsorTableView;
     @FXML
@@ -53,7 +53,7 @@ public class AccountantSponsorController extends Controller {
 
     @FXML
     public void Back() {
-        FXMLLoader fxmlLoader = new FXMLLoader(RunForLifeApplication.class.getResource("AccountantChooseMenu.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(RunForLifeApplication.class.getResource("FondsenChooseMenu.fxml"));
         changeScene(fxmlLoader, stage);
     }
 

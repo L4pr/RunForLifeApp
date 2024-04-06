@@ -11,4 +11,6 @@ module org.example.runforlife_app {
     exports org.example.runforlife_app;
     opens org.example.runforlife_app.Accountant to javafx.fxml;
     exports org.example.runforlife_app.Accountant;
+    exports org.example.runforlife_app.Fondsenwerver;
+    opens org.example.runforlife_app.Fondsenwerver to javafx.fxml;
 }

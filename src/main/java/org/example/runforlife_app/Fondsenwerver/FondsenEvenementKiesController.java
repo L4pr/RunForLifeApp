@@ -1,4 +1,4 @@
-package org.example.runforlife_app.Accountant;
+package org.example.runforlife_app.Fondsenwerver;
 
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -7,7 +7,7 @@ import org.example.runforlife_app.util.Controller;
 import org.example.runforlife_app.RunForLifeApplication;
 import org.example.runforlife_app.util.Database;
 
-public class AccountantEvenementKiesController extends Controller {
+public class FondsenEvenementKiesController extends Controller {
 
     @FXML
     private Button event0;
@@ -28,7 +28,7 @@ public class AccountantEvenementKiesController extends Controller {
     @FXML
     public void goToEvent(int eventNum) {
         Database.currentEvent = eventNum;
-        FXMLLoader fxmlLoader = new FXMLLoader(RunForLifeApplication.class.getResource("AccountantChooseMenu.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(RunForLifeApplication.class.getResource("FondsenChooseMenu.fxml"));
         changeScene(fxmlLoader, stage);
     }
 

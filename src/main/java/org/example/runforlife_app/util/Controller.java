@@ -1,4 +1,4 @@
-package org.example.runforlife_app.Administratie;
+package org.example.runforlife_app.util;
 
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

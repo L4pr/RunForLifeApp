@@ -3,7 +3,6 @@ package org.example.runforlife_app.util;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.control.*;
-import org.example.runforlife_app.Administratie.Controller;
 import org.example.runforlife_app.RunForLifeApplication;
 
 import java.util.HashMap;
@@ -20,9 +19,9 @@ public class RunForLifeController extends Controller {
     private boolean buttonPressed;
 
     private HashMap<String, String> accounts = new HashMap<>() {{
-        put("admin", "admin");
         put("Administratie", "password");
         put("Accountant", "password");
+        put("Fondsenwerver", "password");
     }};
 
 
@@ -43,6 +42,10 @@ public class RunForLifeController extends Controller {
                         case "Accountant":
                             FXMLLoader fxmlLoader2 = new FXMLLoader(RunForLifeApplication.class.getResource("AccountantEvenementKiezer.fxml"));
                             changeScene(fxmlLoader2, stage);
+                            break;
+                        case "Fondsenwerver":
+                            FXMLLoader fxmlLoader3 = new FXMLLoader(RunForLifeApplication.class.getResource("FondsenwerverEvenementKiezer.fxml"));
+                            changeScene(fxmlLoader3, stage);
                             break;
                     }
                 } catch (Exception e) {
