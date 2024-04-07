@@ -1,11 +1,9 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã”½þ8ªþ§Úê1J$7bf2b693-3c91-42ec-9288-254819b659af
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã”½þ8ªþ§Úê1J$47d351c7-87d2-413f-94c6-91c334a1b132
 Ä
-java:S1186`"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µÜ¸ð8Äþ§Úê1J$326ce730-1c4c-4130-b069-9dd2f0949acb
-•	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·€Ÿ§øÿÿÿÿ8Éþ§Úê1J$2a84cfb5-d8ea-4b44-b267-1d6505c63ee3
-r	java:S106H"+Replace this use of System.out by a logger.(ðâÍ¡ûÿÿÿÿ8Íþ§Úê1J$66b0ec51-337b-4be0-acbc-f1aecf6cd007
-r	java:S106["+Replace this use of System.out by a logger.(ðâÍ¡ûÿÿÿÿ8Ïþ§Úê1J$61efc3c0-557d-45ba-82f3-723ef979b18a
-•	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒ©´ûÿÿÿÿ8Ïþ§Úê1J$9ac6e82f-e4c4-46df-97db-1a1149b7b0f0
-m	java:S106t"+Replace this use of System.out by a logger.(ÔÈÙç8Ðþ§Úê1J$7fea9d5d-b2ee-43eb-9fb0-080a90996c3e
-}
-java:S1128	"5Remove this unused import 'javafx.scene.layout.VBox'.(íÆáÂùÿÿÿÿ8·âÞ—ë1J$756a44bb-ea8f-463d-994e-4bbb4cc4f54d
+java:S1186`"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µÜ¸ð8Äþ§Úê1J$f6d6ed81-8c83-402c-beec-bc8f45686442
+•	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·€Ÿ§øÿÿÿÿ8Éþ§Úê1J$3e162049-da56-4e2f-a32f-68bacce4b81d
+r	java:S106H"+Replace this use of System.out by a logger.(ðâÍ¡ûÿÿÿÿ8Íþ§Úê1J$87c09f3d-9fef-478f-a982-20b30cc8b5e1
+r	java:S106["+Replace this use of System.out by a logger.(ðâÍ¡ûÿÿÿÿ8Ïþ§Úê1J$c5b18b9a-9fce-480e-b933-5cb1c723e4ba
+•	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒ©´ûÿÿÿÿ8Ïþ§Úê1J$b14202b0-e25a-45c7-91af-f8a638047bf8
+m	java:S106t"+Replace this use of System.out by a logger.(ÔÈÙç8Ðþ§Úê1J$9d3d84ac-0996-4e75-a6c0-654045d80d01

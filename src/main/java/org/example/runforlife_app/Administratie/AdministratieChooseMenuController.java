@@ -4,6 +4,7 @@ import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
+import javafx.scene.paint.Color;
 import org.example.runforlife_app.RunForLifeApplication;
 import org.example.runforlife_app.util.Controller;
 import org.example.runforlife_app.util.Database;
@@ -63,7 +64,7 @@ public class AdministratieChooseMenuController extends Controller {
 
     @FXML
     public void exporteren() {
-        try (BufferedWriter bw = new BufferedWriter(new FileWriter("C:\\Users\\Public\\Downloads\\export.csv"))) {
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter("export.csv"))) {
             bw.write("Name, Address, Postal Code, City, Country, Rugnummer");
             bw.newLine();
             int index = 1;
@@ -74,7 +75,7 @@ public class AdministratieChooseMenuController extends Controller {
                     bw.write(Database.getCurrentEvent().getRunnerData().get(i).getPostalCode() + ", ");
                     bw.write(Database.getCurrentEvent().getRunnerData().get(i).getCity() + ", ");
                     bw.write(Database.getCurrentEvent().getRunnerData().get(i).getCountry() + ", ");
-                    bw.write(index + ", ");
+                    bw.write(Integer.toString(index));
                     bw.newLine();
                     index++;
                 }
@@ -84,7 +85,8 @@ public class AdministratieChooseMenuController extends Controller {
             e.printStackTrace();
             System.out.println("An error occurred while creating the CSV file.");
         }
-        ExporterenButton.setText("File exported to Public Downloads");
+        ExporterenButton.setTextFill(Color.GREEN);
+        ExporterenButton.setText("File exported to current directory of the program");
         ExporterenButton.setOnAction(actionEvent -> Nothing());
     }
 

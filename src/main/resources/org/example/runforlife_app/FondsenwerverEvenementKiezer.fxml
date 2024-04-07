@@ -13,7 +13,7 @@
    <top>
       <BorderPane style="-fx-background-color: #032139;" BorderPane.alignment="CENTER">
          <left>
-            <Button minHeight="50.0" minWidth="80.0" mnemonicParsing="false" onAction="#Back" text="Terug" BorderPane.alignment="CENTER">
+            <Button minHeight="50.0" minWidth="80.0" mnemonicParsing="false" onAction="#Back" text="Log uit" BorderPane.alignment="CENTER">
                <BorderPane.margin>
                   <Insets left="20.0" right="109.0" />
                </BorderPane.margin>

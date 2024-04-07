@@ -58,7 +58,7 @@ public class AccountantChooseMenuController extends Controller {
 
     @FXML
     public void exporteren() {
-        try (BufferedWriter bw = new BufferedWriter(new FileWriter("C:\\Users\\Public\\Downloads\\export.csv"))) {
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter("export.csv"))) {
             bw.write("Name, Address, Postal Code, City, Country, Rugnummer");
             bw.newLine();
             int index = 1;
@@ -69,7 +69,7 @@ public class AccountantChooseMenuController extends Controller {
                     bw.write(Database.getCurrentEvent().getRunnerData().get(i).getPostalCode() + ", ");
                     bw.write(Database.getCurrentEvent().getRunnerData().get(i).getCity() + ", ");
                     bw.write(Database.getCurrentEvent().getRunnerData().get(i).getCountry() + ", ");
-                    bw.write(index + ", ");
+                    bw.write(Integer.toString(index));
                     bw.newLine();
                     index++;
                 }
@@ -80,7 +80,7 @@ public class AccountantChooseMenuController extends Controller {
             System.out.println("An error occurred while creating the CSV file.");
         }
         ExporterenButton.setTextFill(Color.GREEN);
-        ExporterenButton.setText("File exported to Public Downloads");
+        ExporterenButton.setText("File exported to current directory of the program");
         ExporterenButton.setOnAction(actionEvent -> Nothing());
     }
 

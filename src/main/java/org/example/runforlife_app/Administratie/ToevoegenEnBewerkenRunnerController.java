@@ -80,28 +80,28 @@ public class ToevoegenEnBewerkenRunnerController extends Controller {
     }
 
     private Boolean checkIfDataFine() {
-        if (name.getText().equals("")) {
+        if (name.getText() == null || name.getText().equals("")) {
             return false;
         }
-        if (email.getText().equals("")) {
+        if (email.getText() == null || email.getText().equals("")) {
             return false;
         }
-        if (address.getText().equals("")) {
+        if (address.getText() == null || address.getText().equals("")) {
             return false;
         }
-        if (city.getText().equals("")) {
+        if (city.getText() == null || city.getText().equals("")) {
             return false;
         }
-        if (country.getText().equals("")) {
+        if (country.getText() == null || country.getText().equals("")) {
             return false;
         }
-        if (postalCode.getText().equals("")) {
+        if (postalCode.getText() == null || postalCode.getText().equals("")) {
             return false;
         }
-        if (phoneNumber.getText().equals("")) {
+        if (phoneNumber.getText() == null || phoneNumber.getText().equals("")) {
             return false;
         }
-        if (registrationFee.getText().equals("")) {
+        if (registrationFee.getText() == null || registrationFee.getText().equals("")) {
             return false;
         }
         Double registrationFeeAmount;

@@ -1,7 +1,7 @@
 
 
-java:S1192V"UDefine a constant instead of duplicating this literal "Event already exists" 3 times.(¶ ό8‹υ£ρκ1J$ea729ba9-6264-4246-b624-97f4ce1be6a9
+java:S1192W"UDefine a constant instead of duplicating this literal "Event already exists" 3 times.(¶ ό8‹υ£ρκ1J$ea729ba9-6264-4246-b624-97f4ce1be6a9
 	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Γ”½ώ8υ£ρκ1J$24eb5e3d-914d-4cfc-9b80-c2cb56b56187
-•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·€§ψÿÿÿÿ8±υ£ρκ1J$d7d27772-04ee-4d2e-80a9-463d59de0a51
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·€§ψÿÿÿÿ8±υ£ρκ1J$d7d27772-04ee-4d2e-80a9-463d59de0a51
 y
-java:S2696""6Make the enclosing method "static" or remove this set.(ÿ·ΓΕ8Ήυ£ρκ1J$882ba068-6f2f-4e12-a449-0b8e531c6433
+java:S2696#"6Make the enclosing method "static" or remove this set.(ÿ·ΓΕ8Ήυ£ρκ1J$882ba068-6f2f-4e12-a449-0b8e531c6433

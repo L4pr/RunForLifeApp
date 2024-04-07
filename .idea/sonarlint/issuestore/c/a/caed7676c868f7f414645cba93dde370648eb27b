@@ -1,0 +1,14 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€˜Ò•J$d7da4410-9062-4bb0-bdf5-417fd06e8132
+•	java:S116"ZRename this field "SponsorenButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ø¢J$0d19e20b-2d2b-4a50-a1a7-d95f3ecc490c
+˜	java:S116"XRename this field "RennersButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÌ×·ÿÿÿÿÿJ$71180a26-4b06-4e7d-816b-a8986aee100c
+–	java:S116"[Rename this field "FinancieelButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åçÛ—J$9d7d3c2a-f889-4303-9eae-c35efa7a1251
+š	java:S116"ZRename this field "AanpassenButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å Å˜úÿÿÿÿJ$b951aa62-4e4f-478a-a7f6-ade76559834c
+–	java:S116"\Rename this field "VerwijderenButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑµüAJ$eb4c4df1-fd85-431c-b54c-c9513a69c039
+–	java:S116"[Rename this field "ExporterenButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ä€ÏJ$f215a948-6917-469d-92b6-da523023c655
+Â
+java:S1186W"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ã„…àùÿÿÿÿJ$35884bad-e338-465f-a819-7ad78ac2e3a2
+	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·€Ÿ§øÿÿÿÿJ$34598f80-910f-48c7-94a5-29feb6cef481
+m	java:S106M"+Replace this use of System.out by a logger.(ÌæÖã8¹ã×Èë1J$230adf69-d2f0-42df-97b9-74be497682ba
+m	java:S106P"+Replace this use of System.out by a logger.(ß–ÇÇ8¹ã×Èë1J$e4dfe9f1-51a7-455a-b381-3274b9a6b2f2
+	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã„…àùÿÿÿÿJ$68ebb644-c11b-49fd-8d1c-fef4afe4abb2

@@ -1,0 +1,8 @@
+
+p
+java:S5411*"(Use a primitive boolean expression here.(‰ÇÙÅûÿÿÿÿ8õïÕòê1J$6175c6a5-e3f7-4e3d-a5b1-27c6f313b7a4
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã”½ş8öïÕòê1J$03f507aa-a4ab-4390-b70c-01b08efda3f1
+•	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·€Ÿ§øÿÿÿÿ8ğÕòê1J$ef0023ac-074a-44b0-958f-963e2082c526
+	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¾‹É8“ğÕòê1J$edd1f147-0308-44eb-8334-96a312ab90e2
+ƒ
+java:S1126A"AReplace this if-then-else statement by a single return statement.(üµ¶8–ğÕòê1J$72e2d13f-3a7d-43f4-9b27-5afbd35bcf7b

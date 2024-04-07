@@ -1,0 +1,9 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦Î—“J$c96a833f-b4e1-466e-821f-d27851d8f9dd
+•	java:S116"ZRename this field "SponsorenButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ø¢J$e2e27b86-7937-4a69-8552-eb9776f626a9
+˜	java:S116"XRename this field "RennersButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÌ×·ÿÿÿÿÿJ$658bed88-642b-4f57-92ef-b6934a02dd48
+–	java:S116"[Rename this field "FinancieelButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åçÛ—J$28e0c85a-2007-4538-ac71-c843a8a677d0
+š	java:S116"ZRename this field "AanpassenButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å Å˜úÿÿÿÿJ$ca79e2bc-c0bf-416c-b6bb-d4b5a93d7ac2
+–	java:S116"\Rename this field "VerwijderenButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑµüAJ$e0407cb0-489b-4f34-9ce4-8f23aac39261
+–	java:S116"[Rename this field "ExporterenButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ä€ÏJ$06f659d5-bb26-477f-adcc-cae907b6c979
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·€Ÿ§øÿÿÿÿJ$9e1a87ec-3ad0-4da2-9ae9-2365acba20c4

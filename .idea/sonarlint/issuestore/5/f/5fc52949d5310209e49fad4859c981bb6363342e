@@ -1,9 +1,7 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã”½þ8ž¶ÖÓê1J$10c095b6-27b4-4170-9939-a4029a0f87e0
-•	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·€Ÿ§øÿÿÿÿ8¡³÷Ôê1J$9b5b3034-6dbf-43f7-bdda-e1ca3d28cf7f
-r	java:S106N"+Replace this use of System.out by a logger.(ðâÍ¡ûÿÿÿÿ8Þû–Òê1J$cb9bef94-7804-42c8-8b03-4f7557f9cd09
-r	java:S106a"+Replace this use of System.out by a logger.(ðâÍ¡ûÿÿÿÿ8àû–Òê1J$8fc28467-54a7-4da9-8bdc-2cbc6160addd
-•	java:S100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒ©´ûÿÿÿÿ8©³÷Ôê1J$e433aad0-b0e2-4df2-9ff7-73fd9a954453
-m	java:S106|"+Replace this use of System.out by a logger.(ÔÈÙç8âû–Òê1J$0360d96a-f75e-4f2f-a9ff-261ebb3813ed
-}
-java:S1128	"5Remove this unused import 'javafx.scene.layout.VBox'.(íÆáÂùÿÿÿÿ8ÑæÝ—ë1J$04ce28fe-5501-4bbf-993a-98ef74e5181a
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã”½þ8ž¶ÖÓê1J$a8bc2fe9-7cc6-419b-b35e-c2a308a096e0
+•	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·€Ÿ§øÿÿÿÿ8¡³÷Ôê1J$7e5689a2-1276-4f41-81c0-03095cf388f2
+r	java:S106N"+Replace this use of System.out by a logger.(ðâÍ¡ûÿÿÿÿ8Þû–Òê1J$4d8558a1-e6b8-44cb-9865-966ef041530e
+r	java:S106a"+Replace this use of System.out by a logger.(ðâÍ¡ûÿÿÿÿ8àû–Òê1J$ad5d7f52-62f5-4a85-82d9-32935906255a
+•	java:S100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒ©´ûÿÿÿÿ8©³÷Ôê1J$f1633383-d1f2-4224-a893-3b95f7a40e81
+m	java:S106|"+Replace this use of System.out by a logger.(ÔÈÙç8âû–Òê1J$4f1acce4-9f1b-43f1-8129-4cbb4703e0e3
